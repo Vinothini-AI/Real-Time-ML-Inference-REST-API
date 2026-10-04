@@ -1,0 +1,11 @@
+{
+  "age": 35,
+  "tenure_months": 12,
+  "monthly_charges": 79.9,
+  "support_tickets": 3,
+  "late_payments": 1,
+  "contract_type": "Month-to-month",
+  "internet_service": "Fiber optic",
+  "payment_method": "Electronic check",
+  "paperless_billing": "Yes"
+}
